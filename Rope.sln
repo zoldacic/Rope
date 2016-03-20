@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rope.CSharp", "Rope.CSharp.csproj", "{2FC0C01E-03B2-C4BD-C667-A45E8BF48C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FC0C01E-03B2-C4BD-C667-A45E8BF48C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC0C01E-03B2-C4BD-C667-A45E8BF48C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC0C01E-03B2-C4BD-C667-A45E8BF48C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC0C01E-03B2-C4BD-C667-A45E8BF48C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
